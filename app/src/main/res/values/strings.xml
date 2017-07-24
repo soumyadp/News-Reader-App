@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">News Title goes here.</string>
+    <string name="news_date">12-07-2017 12:21:12</string>
+    <string name="news_section">Tech</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search Here</string>
+
+    <string name="no_news">Nothing found.</string>
+    <string name="no_internet_connection">No internet connection. Please switch on Wifi or Mobile Data.</string>
+</resources>
